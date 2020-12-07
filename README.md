@@ -14,5 +14,5 @@ time. This tracking system using GPS/GSM/GPRS technology and a Smartphone applic
 
 provide better service and cost effective solution for users
 
-I am uploading working code file, circuit diagram
+I am uploading working code files
 you can modify this project, forexample make live tracker, make app to show on time location etc
