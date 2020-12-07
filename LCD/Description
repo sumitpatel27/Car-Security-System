@@ -1,0 +1,1 @@
+In LCD, your lcd may have different frequency rate, so all you need to upload "find frequency number" file and check in arduino IDE serial monitor what frequency you have, in intialization of any code for LCD you have to write that number, here i AM talking about forexample, 0x27, 0x16 etc
